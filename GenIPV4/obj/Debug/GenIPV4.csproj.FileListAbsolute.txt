@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\GenIPV4\GenIPV4\bin\Debug\GenIPV4.exe.config
+C:\Users\user\source\repos\GenIPV4\GenIPV4\bin\Debug\GenIPV4.exe
+C:\Users\user\source\repos\GenIPV4\GenIPV4\bin\Debug\GenIPV4.pdb
+C:\Users\user\source\repos\GenIPV4\GenIPV4\obj\Debug\GenIPV4.csprojAssemblyReference.cache
+C:\Users\user\source\repos\GenIPV4\GenIPV4\obj\Debug\GenIPV4.Form1.resources
+C:\Users\user\source\repos\GenIPV4\GenIPV4\obj\Debug\GenIPV4.Properties.Resources.resources
+C:\Users\user\source\repos\GenIPV4\GenIPV4\obj\Debug\GenIPV4.csproj.GenerateResource.cache
+C:\Users\user\source\repos\GenIPV4\GenIPV4\obj\Debug\GenIPV4.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GenIPV4\GenIPV4\obj\Debug\GenIPV4.exe
+C:\Users\user\source\repos\GenIPV4\GenIPV4\obj\Debug\GenIPV4.pdb
